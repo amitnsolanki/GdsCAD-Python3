@@ -1,0 +1,12 @@
+.DS_Store
+*.pyc
+.spyderproject
+doc/build
+MANIFEST
+gdsCAD/_version.py
+gdsCAD.egg-info/
+dist/
+build/
+test/
+doc/source/output.gds
+!MANIFEST.in

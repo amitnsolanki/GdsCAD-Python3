@@ -1,0 +1,6 @@
+include *.txt
+include *.rst
+include git_version.py
+recursive-include gdsCAD/resources *
+recursive-include doc *
+prune doc/build
