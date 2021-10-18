@@ -18,7 +18,7 @@ Complete documentation can be found at:
 Install
 ========
 
-pip install git shapely dxfgrabber descartes
+pip install git matplotlib shapely dxfgrabber descartes
 
 pip install git+https://github.com/amitnsolanki/gdsCAD.git
 
